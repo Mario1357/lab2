@@ -1,0 +1,19 @@
+nav{
+    width: 10%;
+    float: left;
+}
+
+.section-container{
+    width: 60%;
+    float: left;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+footer{
+    width: 100%;
+    clear: both;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
